@@ -27,13 +27,13 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dev-omaFrank/blogit
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd dynamic-blog-website
+   cd blogit
    ```
 
 3. Open `index.html` in your web browser to view the website locally.

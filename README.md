@@ -36,10 +36,14 @@ To run this project locally:
    cd blogit
    ```
 
-3. Open `index.html` in your web browser to view the website locally.
+3. Make sure xampp/lampp/wampp is installed in your computer.
+
+4. Move the folder to the htdocs directory and start the server.
+
+5. Open `localhost/your_directory_name/index.html` in your web browser to view the website locally.
 
 ## Usage
-
+- This project uses the free tier of the news api and as such the api can only return data to sites running on localhost(production).
 - Upon loading the website, articles are fetched and displayed on the homepage.
 - Navigate through different pages using the pagination buttons to view more articles.
 

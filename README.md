@@ -62,4 +62,4 @@ For questions or feedback, please contact:
 
 - Franklyn Nmesoma
 - Email: sayhellotodevops@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/dev-omaFrank)
+- GitHub: [Dev OmaFrank](https://github.com/dev-omaFrank)
